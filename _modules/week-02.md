@@ -55,7 +55,7 @@
       - date: Date
         events:
           "**Homework 1: Collinear Points**": "
-          [**HW**{: .label .label-hw }]()"
+          [**HW**{: .label .label-hw }](https://github.com/dsc-courses/bigdata-2023-sp-private/tree/main/notebooks/HW2018/hw1.colinear/collinearPoints.ipynb)"
           
    
 ---

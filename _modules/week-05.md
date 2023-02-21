@@ -30,7 +30,7 @@
       - date: Date
         events:
           "**Homework 3: India Weather Analysis**": "
-          [**HW**{: .label .label-hw }]()"
+          [**HW**{: .label .label-hw }](https://github.com/dsc-courses/bigdata-2023-sp-private/blob/main/notebooks/HW2018/hw4-PCA-India/HW4.ipynb)"
      
       - date: Date
         events:
