@@ -28,21 +28,21 @@
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/1.Linear%20Algebra%20Review.ipynb) 
           [**poll**{: .label .label-poll }]() 
-          [**quiz1**{: .label .label-quiz }](/resources/quizes/class8/quizLinAlgebra1.pdf)
-          [**quiz2**{: .label .label-quiz }](/resources/quizes/class8/quizLinAlgebra2.pdf)"
+          [**quiz1**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class8/quizLinAlgebra1.pdf)
+          [**quiz2**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class8/quizLinAlgebra2.pdf)"
 
           "**8.2**{: .label .label-lecture } Matrix - Notation and Operations": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/2.Matrix%20notation%20and%20operations.ipynb) 
           [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class8/quiz3.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class8/quiz3.pdf)"
           
           "**8.3**{: .label .label-lecture } PCA": "
           [**video**{: .label .label-vid }]()
-          [**slides**{: .label .label-slides }](/resources/ppts/class8/PCAnew.pdf) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class8/PCAnew.pdf) 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/7.PCA.ipynb) 
           [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class8/quiz4.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class8/quiz4.pdf)"
 
 
 ---

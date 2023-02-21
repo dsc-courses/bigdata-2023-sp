@@ -21,7 +21,7 @@
           "**Class 18 : Overfitting, Stability and Margins**": 
           "**18.1**{: .label .label-lecture } Stability and Margins": "
           [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](/resources/ppts/class18/Stability.pptx) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class18/Stability.pptx) 
           [**poll**{: .label .label-poll }]()"
 
 ---

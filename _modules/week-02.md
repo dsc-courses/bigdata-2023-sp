@@ -7,7 +7,7 @@
           "**Class 3 : Spark - 1**": 
           "**3.1**{: .label .label-lecture } A Short History of Fast and Affordable Computing": "
           [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](/resources/ppts/class3/0.History.pptx) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class3/0.History.pptx) 
           [**poll**{: .label .label-poll }]()"
 
           "**3.2**{: .label .label-lecture } Map Reduce Algorithm": "
@@ -17,9 +17,9 @@
 
           "**3.3**{: .label .label-lecture } Basic Spark": "
           [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](/resources/ppts/class3/2.SparkContextAndRDD.pptx) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class3/2.SparkContextAndRDD.pptx) 
           [**poll**{: .label .label-poll }]() 
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class3/quizMapReduce1.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class3/quizMapReduce1.pdf)"
 
           "**3.4**{: .label .label-lecture } Basic Spark 2 - Part 1": "
           [**video**{: .label .label-vid }]() 
@@ -30,7 +30,7 @@
           [**video**{: .label .label-vid }]() 
           [**slides**{: .label .label-slides }]() 
           [**poll**{: .label .label-poll }]() 
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class3/quizMapReduce2.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class3/quizMapReduce2.pdf)"
 
 
       - date: Date
@@ -45,7 +45,7 @@
           [**video**{: .label .label-vid }]() 
           [**slides**{: .label .label-slides }]() 
           [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class3/quiz2.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class3/quiz2.pdf)"
 
           "**4.3**{: .label .label-lecture } Word Count": "
           [**video**{: .label .label-vid }]() 

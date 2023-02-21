@@ -9,13 +9,13 @@
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/3.FunctionsAsVectors.ipynb) 
           [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class9/quizVarExplained1.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class9/quizVarExplained1.pdf)"
 
           "**9.2**{: .label .label-lecture } Spectral Analyis of Snow-Depth - Massachusetts": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/4.Spectral%20analysis%20of%20snow-depth%20in%20MA.ipynb) 
           [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/resources/quizes/class9/quizVarExplained2.pdf)"
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class9/quizVarExplained2.pdf)"
 
           "**9.3**{: .label .label-lecture } Maps Using iPyLeaflet": "
           [**video**{: .label .label-vid }]() 
@@ -37,7 +37,7 @@
           "**Class 10 : RMS**":
           "**10.1**{: .label .label-lecture } RMS Methodology": "
           [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](/resources/ppts/class10/RMS_Methodology.pptx) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/RMS_Methodology.pptx) 
           [**poll**{: .label .label-poll }]()"
 
           "**10.2**{: .label .label-lecture } High Dimensional Data Behaves Stranegely": "
