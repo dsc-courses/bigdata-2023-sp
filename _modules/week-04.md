@@ -18,7 +18,7 @@
       - date: Date
         events:
           "**Homework 2: Twitter and scaling computation**": "
-          [**HW**{: .label .label-hw }]()"
+          [**HW**{: .label .label-hw }](https://github.com/dsc-courses/bigdata-2023-sp-private/blob/main/notebooks/HW2018/hw2.twitter/assignment/HW-2_twitter.ipynb)"
           
       
       - date: Date 
