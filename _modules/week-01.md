@@ -7,8 +7,7 @@
           "**Class 1 : Introduction**": 
           "**1.1**{: .label .label-lecture } What is Data Science": "
           [**video**{: .label .label-vid }](https://f.io/Zww28dPn) 
-          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class1/1_WhatIsDataScience2.pptx) 
-          [**poll**{: .label .label-poll }]()"
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class1/1_WhatIsDataScience2.pptx)"
 
           "**1.2**{: .label .label-lecture } Data Engineering and Data Science": "
           [**video**{: .label .label-vid }](https://f.io/LhjN0vLg) 
