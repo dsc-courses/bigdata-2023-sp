@@ -36,9 +36,8 @@
           "**2.3**{: .label .label-lecture } Memory Hierarchy": "
           [**video**{: .label .label-vid }](https://f.io/RBYYAHao) 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class2/3_MemoryHierarchy.pptx) 
-          [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class2/quiz1.pdf)"
-
+          [**poll**{: .label .label-poll }]()"
+          
           "**2.4**{: .label .label-lecture } Heavy Tail Distributions": "
           [**video**{: .label .label-vid }](https://f.io/7V7avl82) 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class2/4_HeavyTailDistribution.pptx) 
