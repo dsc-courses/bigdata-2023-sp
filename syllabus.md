@@ -94,4 +94,6 @@ This class has four pre-requisites (Some of these pre-requisites will be tested 
   - C (73-76)
   - C- (70-72)
 
+The quiz/HW grades that will be assigned to students that join the course late will be the median of the grade assigned to submitted quizes / assignments.
+
 ---
