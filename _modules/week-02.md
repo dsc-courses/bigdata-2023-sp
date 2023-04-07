@@ -1,0 +1,51 @@
+---
+    title: Week 2 
+    weekNumber: 2
+    days:
+      - date: Date
+        events:
+          "**Class 3 : Spark - 1**": 
+          "**3.1**{: .label .label-lecture } A Short History of Fast and Affordable Computing": "
+          [**video**{: .label .label-vid }](https://f.io/6FR4Kaqb) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class3/0.History.pptx)" 
+          
+          "**3.2**{: .label .label-lecture } Map Reduce Algorithm": "
+          [**video**{: .label .label-vid }](https://f.io/fnT9ZJW8) 
+          [**slides**{: .label .label-slides }](https://slides.com/yoavfreund/map-reduce-1)"
+
+
+          "**3.3**{: .label .label-lecture } Basic Spark": "
+          [**video**{: .label .label-vid }](https://f.io/xVh5S-hR) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class3/2.SparkContextAndRDD.pptx)  
+          [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135417)"
+
+          "**3.4**{: .label .label-lecture } Basic Spark 2 - Part 1": "
+          [**video**{: .label .label-vid }](https://f.io/jS1ZkY9h) 
+          [**slides**{: .label .label-slides }]()"
+
+          "**3.5**{: .label .label-lecture } Basic Spark 2 - Part 2": "
+          [**video**{: .label .label-vid }](https://f.io/hIFfD3_w) 
+          [**slides**{: .label .label-slides }]()"
+
+      - date: Date
+        events:
+          "**Class 4 : Spark - 2**":
+          "**4.1**{: .label .label-lecture } Execution Plans, Lazy Evaluation and Caching": "
+          [**video**{: .label .label-vid }](https://f.io/5ha7Jucj)"
+          "**4.2**{: .label .label-lecture } Key-Value Operations": "
+          [**video**{: .label .label-vid }](https://f.io/6epxrII2) 
+          [**slides**{: .label .label-slides }]() 
+          [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135418)"
+
+          "**4.3**{: .label .label-lecture } Word Count": "
+          [**video**{: .label .label-vid }](https://f.io/FBqAHdFV) 
+          [**slides**{: .label .label-slides }]()"
+          
+
+      - date: Date
+        events:
+          "**Homework 1: Collinear Points**": "
+          [**HW**{: .label .label-hw }]()"
+          
+   
+---
