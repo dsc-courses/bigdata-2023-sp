@@ -21,11 +21,11 @@
 
           "**3.4**{: .label .label-lecture } Basic Spark 2 - Part 1": "
           [**video**{: .label .label-vid }](https://f.io/jS1ZkY9h) 
-          [**slides**{: .label .label-slides }]()"
+          [**slides**{: .label .label-ipynb}](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/1.%20Spark%20Basics%201.ipynb)"
 
           "**3.5**{: .label .label-lecture } Basic Spark 2 - Part 2": "
           [**video**{: .label .label-vid }](https://f.io/hIFfD3_w) 
-          [**slides**{: .label .label-slides }]()"
+          [**slides**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/4%20Spark%20Basics%202.ipynb)"
 
       - date: Date
         events:
@@ -34,12 +34,12 @@
           [**video**{: .label .label-vid }](https://f.io/5ha7Jucj)"
           "**4.2**{: .label .label-lecture } Key-Value Operations": "
           [**video**{: .label .label-vid }](https://f.io/6epxrII2) 
-          [**slides**{: .label .label-slides }]() 
+          [**slides**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/3.%20Execution%20plans%2C%20Lazy%20Evaluation%2C%20and%20caching.ipynb) 
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135418)"
 
           "**4.3**{: .label .label-lecture } Word Count": "
           [**video**{: .label .label-vid }](https://f.io/FBqAHdFV) 
-          [**slides**{: .label .label-slides }]()"
+          [**slides**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/5.Word%20Count.ipynb)"
           
 
       - date: Date
