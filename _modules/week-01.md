@@ -7,7 +7,7 @@
           "**Class 1 : Introduction**": 
           "**1.1**{: .label .label-lecture } What is Data Science": "
           [**video**{: .label .label-vid }](https://f.io/Zww28dPn)
-          [**podcast**{: .label .label-vid }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/1) 
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/1) 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class1/1_WhatIsDataScience2.pptx)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135105)"
           
@@ -27,7 +27,7 @@
           "**Class 2 : Memory Hierarchy**":
           "**2.1**{: .label .label-lecture } Latency Throughput and Memory Hierarchy": "
           [**video**{: .label .label-vid }](https://f.io/NgPERvG6) 
-          [**podcast**{: .label .label-vid }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/2)
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/2)
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class2/1_MemoryLatecyLocality.pptx)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135121)"
 
