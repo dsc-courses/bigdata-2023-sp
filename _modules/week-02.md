@@ -31,10 +31,11 @@
         events:
           "**Class 4 : Spark - 2**":
           "**4.1**{: .label .label-lecture } Execution Plans, Lazy Evaluation and Caching": "
-          [**video**{: .label .label-vid }](https://f.io/5ha7Jucj)"
+          [**video**{: .label .label-vid }](https://f.io/5ha7Jucj)
+          [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/3.%20Execution%20plans%2C%20Lazy%20Evaluation%2C%20and%20caching.ipynb)"
           "**4.2**{: .label .label-lecture } Key-Value Operations": "
           [**video**{: .label .label-vid }](https://f.io/6epxrII2) 
-          [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/3.%20Execution%20plans%2C%20Lazy%20Evaluation%2C%20and%20caching.ipynb) 
+          [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/6.(key%2Cval)%20RDD%20operations.ipynb) 
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135418)"
 
           "**4.3**{: .label .label-lecture } Word Count": "
