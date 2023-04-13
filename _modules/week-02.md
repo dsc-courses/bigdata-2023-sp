@@ -41,11 +41,12 @@
           "**4.3**{: .label .label-lecture } Word Count": "
           [**video**{: .label .label-vid }](https://f.io/FBqAHdFV) 
           [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/5.Word%20Count.ipynb)"
-          
-		  "**4.4**{: .label .label-lecture } Spark Performance Tuning": "
+
+          "**4.4**{: .label .label-lecture } Spark Performance Tuning": "
           [**video**{: .label .label-vid }]() 
           [**slides**{: .label .label-slides }](https://slides.com/yoavfreund/spark-architecture) 
           [**poll**{: .label .label-poll }]()"
+          
 
 
       - date: Date
