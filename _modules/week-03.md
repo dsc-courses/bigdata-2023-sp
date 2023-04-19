@@ -20,17 +20,13 @@
           
       - date: Date 
         events:
-          "**Class 6 : Spark Architecture and Performance Tuning**": 
-          "**6.1**{: .label .label-lecture } Spark Performance Tuning": "
-          [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](https://slides.com/yoavfreund/spark-architecture)"
-
-          "**6.2**{: .label .label-lecture } Weather Analysis - Vermont": "
+         
+          "**6.1**{: .label .label-lecture } Weather Analysis - Vermont": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/1.%20Weather%20Analysis%20-%20Initial%20Visualisation-VT.ipynb)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135420)"
 
-          "**6.3**{: .label .label-lecture } Weather Analysis - Massachusetts": "
+          "**6.2**{: .label .label-lecture } Weather Analysis - Massachusetts": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/2%20Weather%20Analysis%20-%20Initial%20Visualisation%20-%20MA.ipynb)"
 

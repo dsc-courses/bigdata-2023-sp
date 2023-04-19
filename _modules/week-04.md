@@ -4,7 +4,7 @@
     days:
       - date: Date
         events:
-         "**Class 7 : Linear Algebra and PCA**":
+          "**Class 7 : Linear Algebra and PCA**":
           "**7.1**{: .label .label-lecture } Review of Linear Algebra": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/1.Linear%20Algebra%20Review.ipynb)"
