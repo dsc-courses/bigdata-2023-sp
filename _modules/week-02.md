@@ -7,6 +7,7 @@
           "**Class 3 : Spark - 1**": 
           "**3.1**{: .label .label-lecture } A Short History of Fast and Affordable Computing": "
           [**video**{: .label .label-vid }](https://f.io/6FR4Kaqb) 
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/3)
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class3/0.History.pptx)" 
           
           "**3.2**{: .label .label-lecture } Map Reduce Algorithm": "
@@ -32,6 +33,7 @@
           "**Class 4 : Spark - 2**":
           "**4.1**{: .label .label-lecture } Execution Plans, Lazy Evaluation and Caching": "
           [**video**{: .label .label-vid }](https://f.io/5ha7Jucj)
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/4)
           [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/3.%20Execution%20plans%2C%20Lazy%20Evaluation%2C%20and%20caching.ipynb)"
           "**4.2**{: .label .label-lecture } Key-Value Operations": "
           [**video**{: .label .label-vid }](https://f.io/6epxrII2) 
