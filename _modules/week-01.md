@@ -11,12 +11,10 @@
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135105)"
           
           "**1.2**{: .label .label-lecture } Data Engineering and Data Science": "
-          [**video**{: .label .label-vid }](https://f.io/LhjN0vLg) 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class1/3_JoeHellersteingDataScience.pptx)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135120)"
 
-          "**1.3**{: .label .label-lecture } Speeding up Data Processing": "
-          [**video**{: .label .label-vid }](https://f.io/hvx-0jLl) 
+          "**1.3**{: .label .label-lecture } Speeding up Data Processing": " 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class1/2_Speed of data processing.pptx)"
           
           
