@@ -4,45 +4,35 @@
     days:
       - date: Date
         events:
-          "**Class 9 : PCA for Weather Data**": 
-          "**9.1**{: .label .label-lecture } Functions as Vectors": "
-          [**video**{: .label .label-vid }]() 
-          [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/3.FunctionsAsVectors.ipynb) 
-          [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class9/quizVarExplained1.pdf)"
-
-          "**9.2**{: .label .label-lecture } Spectral Analyis of Snow-Depth - Massachusetts": "
-          [**video**{: .label .label-vid }]() 
-          [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/4.Spectral%20analysis%20of%20snow-depth%20in%20MA.ipynb) 
-          [**poll**{: .label .label-poll }]()
-          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class9/quizVarExplained2.pdf)"
-
-          "**9.3**{: .label .label-lecture } Maps Using iPyLeaflet": "
-          [**video**{: .label .label-vid }]() 
-          [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/5.%20maps%20using%20iPyLeaflet.ipynb) 
-          [**poll**{: .label .label-poll }]()"
-
-          "**9.4**{: .label .label-lecture } Is Snow-Depth Variation Spatial or Temporal": "
-          [**video**{: .label .label-vid }]() 
-          [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/6.%20Is%20SNWD%20variation%20spatial%20or%20temporal.ipynb) 
-          [**poll**{: .label .label-poll }]()"
        
+     
+      - date: Date
+        events:
+          "**Class 9 : RMS**":
+          "**9.1**{: .label .label-lecture } RMS Methodology": "
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/RMS_Methodology.pptx) 
+
+          "**9.2**{: .label .label-lecture } High Dimensional Data Behaves Stranegely": "
+          [**ipynb**{: .label .label-ipynb }]() 
+		  Add quiz
+
       - date: Date
         events:
           "**Homework 3: India Weather Analysis**": "
           [**HW**{: .label .label-hw }](https://github.com/dsc-courses/bigdata-2023-sp-private/blob/main/notebooks/HW2018/hw4-PCA-India/HW4.ipynb)"
-     
-      - date: Date
+		  
+	  - date: Date
         events:
-          "**Class 10 : RMS**":
-          "**10.1**{: .label .label-lecture } RMS Methodology": "
+          "**Class 10 : Decision Trees, Bagging, Random Forest**": 
+          "**10.1**{: .label .label-lecture } Decision Trees": "
           [**video**{: .label .label-vid }]() 
-          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/RMS_Methodology.pptx) 
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/Decision_Trees.pptx) 
           [**poll**{: .label .label-poll }]()"
 
-          "**10.2**{: .label .label-lecture } High Dimensional Data Behaves Stranegely": "
+          "**10.2**{: .label .label-lecture } Ensembles (Change slides- bagging and random forrest)": "
           [**video**{: .label .label-vid }]() 
-          [**ipynb**{: .label .label-ipynb }]() 
-          [**poll**{: .label .label-poll }]()"
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/Ensembles.pptx) 
+          [**poll**{: .label .label-poll }]()
+          [**quiz**{: .label .label-quiz }](/bigdata-2023-sp/resources/quizes/class11/quiz6.pdf)"
 
 ---
