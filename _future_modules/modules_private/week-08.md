@@ -5,7 +5,7 @@
       - date: Date
         events:
           "**Class 15 : XGBoost**": 
-          "**15.1**{: .label .label-lecture } XGBost Whales": "
+          "**15.1**{: .label .label-lecture } XGBoost Whales": "
           [**video**{: .label .label-vid }]() 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section3-Classification/XGBoost/XGBoost_Whales.ipynb) 
           [**poll**{: .label .label-poll }]()"
