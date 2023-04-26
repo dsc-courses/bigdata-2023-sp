@@ -23,7 +23,6 @@
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/Decision_Trees.pptx)"
 
           "**10.2**{: .label .label-lecture } Ensembles (Change slides- bagging and random forrest)": " 
-          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/Ensembles.pptx) 
-          [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135424)"
+          [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/Ensembles.pptx)"
 
 ---
