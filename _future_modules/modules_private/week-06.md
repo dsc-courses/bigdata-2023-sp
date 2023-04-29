@@ -13,8 +13,7 @@
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class12/Paradigms_ML.pptx) 
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135424)"
 
-          "**11.3**{: .label .label-lecture } Learn by Elimination 1D": "
-          [**video**{: .label .label-vid }]() 
+          "**11.3**{: .label .label-lecture } Learn by Elimination 1D": " 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section3-Classification/LearnByElimination/LearnByElimination_1D.ipynb)"
 
       - date: Date

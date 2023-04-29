@@ -9,7 +9,7 @@
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class10/RMS_Methodology.pptx)" 
 
           "**9.2**{: .label .label-lecture } High Dimensional Data Behaves Stranegely": "
-          [**ipynb**{: .label .label-ipynb }]()
+          [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section3.5-Kmeans-dim-reduction/BasicAnalysis/5.Data%20in%20high%20dimensions%20behaves%20strangely.ipynb)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135423)"
       - date: Date
         events:
