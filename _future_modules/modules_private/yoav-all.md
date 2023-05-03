@@ -60,7 +60,7 @@
     title: Week 9  
     weekNumber: 9
     days:
-      - date: May 30
+      - date: May 25
         events:
           "**Class 17 : Competition**": 
           "**17.1**{: .label .label-lecture } Setting up the competition": "
@@ -70,7 +70,7 @@
          "       
 
 
-      - date: Jun 1
+      - date: May 30
         events:
           "**Class 18 : Overfitting, Stability and Margins**": 
           "**18.1**{: .label .label-lecture } Stability and Margins": " 
@@ -80,12 +80,15 @@
 ---
     title: Week 10  
     weekNumber: 10
+	 - date: June 1
+        events:
+          "**Class 18 : TBD**": ""
     days: 
-      - date: June 6
+      - date: June 1
         events:
           "**Class 19 : TBD**": ""
 
-      - date: June 8
+      - date: June 6
         events:
           "**Class 20 : Competition Outcome, Summary**": ""
 
