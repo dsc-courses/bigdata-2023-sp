@@ -79,8 +79,8 @@ This class has four pre-requisites (Some of these pre-requisites will be tested 
 
 ## Grading
 
-- **HW:** There will be 5 graded HWs (including the final project). The HW will be in the form of Jupyter Notebooks / NBGrader assignments.
-- **Quizes:** There will be quizzes every week. Quizzes will be on Canvas. Please see course schedule for more details.
+- **HW:** There will be 5 graded HWs (including the final project). The HW will be in the form of Jupyter Notebooks / NBGrader assignments. Each HW will be graded on the scale of 0-100. HW with lowest grade will be dropped
+- **Quizes:** There will be quizzes every week. Quizzes will be on Canvas. Please see course schedule for more details. Each quiz will be graded on a scale of 0 to 100, the bottom two grades will be dropped
 - **Final:** A final 2 hour exam (3 hour for students that need 50% additional time) will take place in person at the end of the quarter.
 - **Final Grade** will be HW(40%) + Quizes(30%) + Final(30%)
 - **Grading scale**
