@@ -15,5 +15,5 @@
           "**17.1**{: .label .label-lecture } Setting up the competition": "
           [**slides**{: .label .label-slides }]()"
           "**17.2**{: .label .label-lecture } Confidence and Loss": "
-          [**slides**{: .label .label-slides }]()
+          [**slides**{: .label .label-slides }]()"
 ---
