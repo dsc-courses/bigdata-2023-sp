@@ -2,7 +2,7 @@
     title: Week 1 
     weekNumber: 1
     days:
-      - date: Date 
+      - date: Apr 4 
         events:
           "**Class 1 : Introduction**": 
           "**1.1**{: .label .label-lecture } What is Data Science": "
@@ -19,7 +19,7 @@
           
           
 
-      - date: Date
+      - date: Apr 6
         events:
           "**Class 2 : Memory Hierarchy**":
           "**2.1**{: .label .label-lecture } Latency Throughput and Memory Hierarchy": " 

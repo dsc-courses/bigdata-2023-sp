@@ -2,7 +2,7 @@
     title: Week 3 
     weekNumber: 3
     days:
-      - date: Date
+      - date: Apr 18
         events:
           "**Class 5 : Spark Dataframes**":
           "**5.1**{: .label .label-lecture } Dataframes": " 
@@ -16,7 +16,7 @@
           "**5.3**{: .label .label-lecture } Spark SQL - Processing Weather Files": "
           [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/2.SparkSQL/2.Processing%20Weather%20Files.ipynb)"
           
-      - date: Date 
+      - date: Apr 20 
         events:
          
           "**6.1**{: .label .label-lecture } Weather Analysis - Vermont": "

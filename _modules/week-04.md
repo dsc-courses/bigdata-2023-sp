@@ -2,10 +2,11 @@
     title: Week 4 
     weekNumber: 4
     days:
-      - date: Date
+      - date: Apr 25
         events:
           "**Class 7 : Linear Algebra and PCA**":
           "**7.1**{: .label .label-lecture } Review of Linear Algebra": " 
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/7)
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/1.Linear%20Algebra%20Review.ipynb)
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135421)"
 
@@ -17,16 +18,17 @@
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section%201.5:%20Review%20of%20Linear%20Algebra/7.PCA.ipynb) 
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135422)"
           
-      - date: Date
+      - date: Apr 27
         events:
           "**Homework 2: Twitter and scaling computation**": "
           [**HW**{: .label .label-hw }]()"
           
       
-      - date: Date 
+      - date: Apr 27 
         events:
           "**Class 8 : PCA for Weather Data**": 
           "**8.1**{: .label .label-lecture } Functions as Vectors": " 
+          [**podcast**{: .label .label-podcast }](https://podcast.ucsd.edu/watch/sp23/cse255_a00/8)
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section2-PCA/PCA/3.FunctionsAsVectors.ipynb)"
            
           "**8.2**{: .label .label-lecture } Spectral Analyis of Snow-Depth - Massachusetts": "

@@ -4,7 +4,7 @@
     title: Week 2 
     weekNumber: 2
     days:
-      - date: Date
+      - date: Apr 11
         events:
           "**Class 3 : Spark - 1**": 
           "**3.1**{: .label .label-lecture } A Short History of Fast and Affordable Computing": " 
@@ -25,7 +25,7 @@
           "**3.5**{: .label .label-lecture } Basic Spark 2 - Part 2": "
           [**ipynb**{: .label .label-ipynb }](https://github.com/UCSD-Data-Science/Public-CSE255-2022/blob/master/notebooks/Section1-Basics/1.BasicSpark/4%20Spark%20Basics%202.ipynb)"
 
-      - date: Date
+      - date: Apr 13
         events:
           "**Class 4 : Spark - 2**":
           "**4.1**{: .label .label-lecture } Execution Plans, Lazy Evaluation and Caching": "
@@ -44,7 +44,7 @@
           
 
 
-      - date: Date
+      - date: Apr 13
         events:
           "**Homework 1: Collinear Points**": "
           [**HW**{: .label .label-hw }]()"
