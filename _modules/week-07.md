@@ -8,6 +8,11 @@
           "**13.1**{: .label .label-lecture } Boosting 2": " 
           [**slides**{: .label .label-slides }](/bigdata-2023-sp/resources/ppts/class13/BoostingSectioned.pptx) 
           [**quiz**{: .label .label-quiz }](https://canvas.ucsd.edu/courses/45123/quizzes/135426)"
+      
+      - date: May 16
+        events:
+          "**Homework 4: XGBoost**": "
+          [**HW**{: .label .label-hw }]()"
 
 
       - date: May 18

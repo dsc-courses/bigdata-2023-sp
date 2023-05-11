@@ -8,7 +8,10 @@
           "**16.1**{: .label .label-lecture } KD-tree Analysis of Colors": "
           [**slides**{: .label .label-slides }]()"
         
-
+      - date: May 23
+        events:
+          "**Homework 5: Final Project**": "
+          [**HW**{: .label .label-hw }]()"
       - date: May 25
         events:
           "**Class 16 : Competition**": 
