@@ -2,7 +2,6 @@
     title: Week 6 
     weekNumber: 6
     days:
-          
       - date: May 9
         events:
           "**Class 11 : ML Paradigms**":
@@ -16,11 +15,6 @@
           "**11.3**{: .label .label-lecture } Learn by Elimination 1D": " 
           [**ipynb**{: .label .label-ipynb }](https://github.com/dsc-courses/bigdata-2023-sp-notebooks/blob/master/notebooks/Section3-Classification/LearnByElimination/LearnByElimination_1D.ipynb)"
       
-       - date: May 9
-        events:
-          "**Homework 3: India Weather Analysis**": "
-          [**HW**{: .label .label-hw }](https://github.com/dsc-courses/bigdata-2023-sp-private/blob/main/notebooks/HW2018/hw4-PCA-India/HW4.ipynb)"
-
       - date: May 11
         events:
           "**Class 12 : Boosting 1**": 
